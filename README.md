@@ -16,3 +16,9 @@ From today you do not have to hesitate. Artificial intelligence will decide for 
 In the first step the model will identify the shoe model (now two models are supported, 555088-402 and 555088-105).
 
 In the second step the system will run a fake detection model for the detected shoe model and display the results
+
+
+##### The project created for a final project upervised by Benny
+
+- Moshiko
+- Ziv
